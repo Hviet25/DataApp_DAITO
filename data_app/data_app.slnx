@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="data_app.api/data_app.api.csproj" />
+  <Project Path="data_app.desktop/data_app.desktop.csproj" />
+</Solution>
